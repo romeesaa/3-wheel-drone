@@ -2,7 +2,7 @@
 made with onshape and its just a cute drone design i made to learn cad !! almost all drones i have seen have 4 wheels and that made me  wonder why??? (idk prolly some physics stuff meh).
 i dont think this has any practical use and i do plan to make a better model soon and bring that to life!!
 
-##Description 
+# Description 
 
 took 15 or 20 minutes to design. 
 I got to learn about a lot of stuff such as assembly, changing the colors,extrude,sketch,loft,chamfer,circular pattern and transform tool
